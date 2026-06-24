@@ -235,6 +235,12 @@ The script also stores inferred states and burst summaries in memory:
 
 ## Citation
 
-If you use this code, please cite the associated paper:
+If you use this code, please cite the corresponding paper:
 
-Coordinated dynamics of condensates and enhancer-promoter looping revealed by live-cell imaging.
+**Coordinated dynamics of condensates and enhancer-promoter looping revealed by live-cell imaging**
+
+For questions, contact:
+
+```text
+wangbo@stu.pku.edu.cn
+```
