@@ -1,0 +1,1 @@
+Check the Zenodo website: 10.5281/zenodo.18548898 `Fig5_Sox2RNA_burst_modeling.rar` for raw data.
